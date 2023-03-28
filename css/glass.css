@@ -1,0 +1,8 @@
+body {
+    --white: hsla(0, 0%, 100%, 0.25);
+    --border-color-2: hsla(0, 0%, 100%, 0.40);
+    --shadow: none;
+    --border-color-1: hsla(0, 0%, 0%, 0.1);
+    background-image: linear-gradient(to right, var(--body-gradient-bg-color-1), var(--body-gradient-bg-color-2));
+    /* background-attachment: fixed; */
+}
